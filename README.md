@@ -6,3 +6,5 @@ Data Engineering project using powerful tools like Azure Databricks, Delta Live 
 2. Designed fully parameterised streaming pipelines delivering incremental loads and idempotency capabilities via Spark Autoloader with code reuse through OOP-based PySpark utilities and registered functions.
 
 3. Built Gold-layer star-schema fact and dimension tables, including implementation of Slowly Changing Dimensions (SCD) Type 1 and Type 2 logic via Delta Live Tables for automatic change-history management.
+
+<img width="1532" height="566" alt="image" src="https://github.com/user-attachments/assets/8a5e0524-3445-4c61-a158-7808d4a44a5d" />
